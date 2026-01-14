@@ -3,3 +3,14 @@ openai
 pymupdf 
 python-dotenv
 apify-client
+sentence-transformers
+langchain
+python-dotenv
+langchain-community
+langchain-huggingface
+langchain-experimental
+langgraph
+langgraph
+langgraph-prebuilt
+langgraph-sdk
+langchain-google-genai
